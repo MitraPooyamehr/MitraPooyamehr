@@ -20,6 +20,5 @@ I am an **Economic Analyst** and **Data Scientist** dedicated to bridging the ga
 
 ## 📫 Connect with me
 - **LinkedIn:** [Mitra Pooyamehr](https://www.linkedin.com/in/mitra-pooyamehr/)
-- **Location:** Tehran, Iran
 
 *“Empowering economic strategy through the lens of Data Science and Intelligent Software Design.”*
